@@ -1,0 +1,98 @@
+1.4.1 | February 19, 2019
+   * Operation Burnt Horizon (Year 4, Season 1 (Test Server))
+   * Added Mozzie and Gridlock (SASR [Australian])
+
+1.3.4b | January 18, 2019
+   * Updated Capitao and Caveira with Official Ubisoft portraits (Thanks @anon434483)
+
+1.3.4a | November 20, 2018
+   * Updated Nomad and Kaid artwork with Official Ubisoft releases
+
+1.3.4 | November 20, 2018
+   * Operation Wind Bastion (Year 3, Season 4)
+   * Added Nomad and Kaid (GIGR [Moroccan])
+   * Versions refactored to incorporate Siege Year/Seasons
+     - Major = Website Version
+     - Minor = Siege Year
+     - Revision = Siege Season
+     - Revision Alpha: Inter season modifications
+     - Example:  1.3.4a  ==  Website Version 1, Siege Year 3, Season 4, Data Revision "A"
+     - Example:  1.2.2   ==  Website Version 1, Siege Year 2, Season 1
+
+1.3.3 | August 23, 2018
+   * Operation Grim Sky (Year 3, Season 3 (Test Server))
+   * Added Clash and Maverick (GSUTR [US/UK])
+
+1.3.2 | June 5, 2018
+  * Operation Para Bellum (Year 3, Season 2)
+  * Added Alibi and Maestro defenders (GIS / Italy)
+
+1.3.1a | June 4, 2018
+  * Removed Github link (Repository removed post-github acquisition)
+  * Source is available upon request (self-hosted. Contact @Orcicorn on Twitter)
+
+1.3.1 | March 7, 2018
+  * Operation Chimera (Year 3, Season 1)
+  * Added Finka and Lion attackers (CBRN / Russia)
+  * [Site] Default mobile-zoom changed to 0.7 (was 0.5)
+  * [Site] Cache-busting Query string added to JSON Include
+
+1.2.4a | December 6, 2017
+  * Added Recruit as Attacker/Defender (Requested @1ogan_cherry07)
+
+1.2.4 | December 4, 2017
+  * Operation White Noise (Year 2, Season 4)
+  * Added Dokkaebi and Vigil (South Korea)
+  * Added Zofia (Polish Attacker)
+  * Prepended Operations to localized versions
+
+1.2.3 | September 1, 2017
+  * Operation Blood Orchid (Year 2, Season 3)
+  * Added Lesion and Ying (Hong Kong)
+  * Added Ela (Polish Defender) [Temporary Image]
+  * Versions refactored to be a little more semantic
+  * Removed personal analytics from repository copies
+  * Added Link to Twitter Contact
+
+1.2.1 | February 7, 2017
+  * Operation Velvet Shell (Year 2, Season 1)
+  * Added Jackal and Mira (Spain)
+  * Added personal analytics [Removed, September 2017]
+
+1.1.4 | November 16, 2016
+  * Operation Red Crow (Year 1, Season 4)
+  * Added Echo and Hibana (Japan)
+  * Added Change Log link
+
+1.1.3 | August 11, 2016
+  * Operation Skull Rain (Year 1, Season 3)
+  * Added Capitao and Caveira (Brazil)
+
+1.1.2 | May 13, 2016
+  * Operation Dust Line (Year 1, Season 2)
+  * Added Blackbeard and Valkyrie (USA Seals)
+  * Added green screen mode for Chroma Key (streamer.html)
+
+1.0.0 | March 28, 2016
+   * Added operator icons
+   * Operator array is now shuffled randomly when first loaded
+
+0.0.0-rc.3 | March 28, 2016
+    * Removed async/defer from jQuery script. Stops all logic on live, despite working on dev
+    * Removed Media-Query debug code from style.css
+    * Added link to Github Repo (https://github.com/orcicorn/siegeoperators)
+
+0.0.0-rc.2 | March 28, 2016
+    * ReadMe has a link to a live demo
+    * Recruit image added to Operator PSD (UN Flag)
+    * Recruit is now the default placeholder on first load
+    * Operators.json has been reformatted for readability purposes
+    * Disclaimer text is now readable (Black vs White)
+    * Changed Favicon to "dice" (ICO saved in /images/source)
+    * Re-Ordered Meta tags in index.html
+    * Added Meta Title/Description tags
+    * Added proper Doctype declaration
+    * Updated jQuery link to be asynchronous and deferred
+
+0.0.0-rc.1 | March 27, 2016
+    * Initial Commit
