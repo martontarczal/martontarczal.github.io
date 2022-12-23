@@ -146,3 +146,25 @@ span {
 .icon.Gridlock { background-position: -320px -320px; }
 .icon.Mozzie { background-position: -384px -320px; }
 .icon.Nokk { background-position: -448px -320px; }
+/* Row 7 */
+.icon.Warden { background-position: 0 -384px; }
+.icon.Amaru { background-position: -64px -384px; }
+.icon.Goyo { background-position: -128px -384px; }
+.icon.Kali { background-position: -192px -384px; }
+.icon.Wamai { background-position: -256px -384px; }
+.icon.Iana { background-position: -320px -384px; }
+.icon.Oryx { background-position: -384px -384px; }
+.icon.Ace { background-position: -448px -384px; }
+/* Row 8 */
+.icon.Melusi { background-position: 0 -448px; }
+.icon.Zero { background-position: -64px -448px; }
+.icon.Aruni { background-position: -128px -448px; }
+.icon.Flores { background-position: -192px -448px; }
+.icon.Thunderbird { background-position: -256px -448px; }
+.icon.Osa { background-position: -320px -448px; }
+.icon.Thorn { background-position: -384px -448px; }
+.icon.Azami { background-position: -448px -448px; }
+/* Row 9 */
+.icon.Sens { background-position: 0 -512px; }
+.icon.Grim { background-position: -64px -512px; }
+.icon.Solis { background-position: -128px -512px; }
